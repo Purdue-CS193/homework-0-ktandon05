@@ -1,3 +1,15 @@
+# Kovid's First CS193 Homework
+
+## Some of my favorite things about about CS193
+
+- No Midterms or Finals
+- The fact that the instructors are also students
+- We get two weeks to complete each homework assignment
+- The free points for attending class and taking the attendance quiz
+- The useful content
+
+# Initial Template with Useful Information 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
