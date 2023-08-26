@@ -3,10 +3,15 @@
 ## Some of my favorite things about about CS193
 
 - No Midterms or Finals
+  
 - The fact that the instructors are also students
+  
 - We get two weeks to complete each homework assignment
+  
 - The free points for attending class and taking the attendance quiz
+  
 - The useful content
+
 
 # Initial Template with Useful Information 
 
